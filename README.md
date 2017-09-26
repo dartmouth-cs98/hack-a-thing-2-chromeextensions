@@ -1,6 +1,6 @@
 # hack-a-thing-2-chromeextensions
 
-Created for CS98 by Adam Phillips and Robert Sayegh
+Created for CS98 by Adam Philipps and Robert Sayegh
 
 ## Short description of what we attempted to build
 We built a google chrome extensions which takes the page the user is on and creates a short summary of it. We combined the functionality of Goole Chrome extensions with an API designed to pull out the most important and relevant pieces of text into a short blurb. We based our extension off the tutorial at https://developer.chrome.com/extensions/getstarted
